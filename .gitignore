@@ -1,4 +1,3 @@
-*.csv
 *.pack
 *.env
 node_modules/
