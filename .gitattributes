@@ -1,0 +1,5 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.pack filter=lfs diff=lfs merge=lfs -text
+copy.csv filter=lfs diff=lfs merge=lfs -text
+client/src/assets/file/sales_06_FY2020-21[[:space:]]copy.csv filter=lfs diff=lfs merge=lfs -text
+client/.angular/cache/14.2.3/angular-webpack/a9861253aab9efd87f8b25b52a630d1d14a013c8/0.pack filter=lfs diff=lfs merge=lfs -text
